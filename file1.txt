@@ -1,1 +1,2 @@
 Este é o ficheiro 1
+Fiz uma alteração dentro do ficheiro
