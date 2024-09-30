@@ -1,1 +1,2 @@
 Este é o ficheiro 3
+Estou a alterar o file3
