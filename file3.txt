@@ -1,2 +1,10 @@
 Este é o ficheiro 3
 Estou a alterar o file3
+
+<h2>Bebidas</h2>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+<ul>
